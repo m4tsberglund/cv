@@ -1,0 +1,23 @@
+body {
+    background-color: #08082e; 
+    color: #E9F8F9;
+}
+
+hr {
+    background-color: #537FE7;
+    border-style: none;
+    height: 3px;
+    width: 	100%;
+}
+
+h1 {
+    color: #537FE7;
+}
+
+h2 {
+    color: #537FE7;
+}
+
+a {
+    color: rgb(255, 242, 0);
+}
